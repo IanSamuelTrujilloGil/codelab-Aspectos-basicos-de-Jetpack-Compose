@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicsCodelab</string>
+    <string name="mostrar_menos">Show less</string>
+    <string name="mostrar_mas">Show more</string>
+</resources>
