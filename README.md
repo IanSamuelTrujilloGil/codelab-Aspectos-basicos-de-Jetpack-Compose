@@ -12,4 +12,4 @@ la aplicación mediante el uso de temas y estilos.
 - Ian Samuel Trujillo Gil
 
 ## Enlace:
-- [Codelab: Aspectos básicos de Jetpack Compose](developer.android.com/codelabs/jetpack-compose-basics)
+- [Codelab: Aspectos básicos de Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-basics)
